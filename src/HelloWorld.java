@@ -24,5 +24,7 @@ public class HelloWorld {
         System.out.println("坑，不弹框，还要手动提");
 
         System.out.println("先这样吧");
+
+        System.out.println("测试");
     }
 }
