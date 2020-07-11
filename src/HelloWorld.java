@@ -18,5 +18,7 @@ public class HelloWorld {
         System.out.println("");
 
         System.out.println("这都是情况");
+
+        System.out.println("为啥idea总是提交不上啊");
     }
 }
