@@ -21,6 +21,6 @@ public class HelloWorld {
 
         System.out.println("为啥idea总是提交不上啊");
 
-        System.out.println("坑，不弹框，还要手动提交");
+        System.out.println("坑，不弹框，还要手动提");
     }
 }
